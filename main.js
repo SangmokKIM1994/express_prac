@@ -4,6 +4,9 @@ const port = 3000;
 
 const postsRouter = require('./routes/posts.js')
 
+const connect = require("./schemas");
+connect();
+
 app.use("/", [postsRouter]);
 
 app.listen(port, () => {
