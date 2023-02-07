@@ -1,0 +1,23 @@
+{
+  "name": "express_prac",
+  "version": "1.0.0",
+  "description": "express스터디를 위한 레포",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SangmokKIM1994/express_prac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SangmokKIM1994/express_prac/issues"
+  },
+  "homepage": "https://github.com/SangmokKIM1994/express_prac#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
